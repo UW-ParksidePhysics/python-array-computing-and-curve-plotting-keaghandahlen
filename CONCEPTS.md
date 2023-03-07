@@ -1,14 +1,14 @@
 # Concepts Addressed in Array Computing and Curve Plotting
-#lists
+-lists
 
-#nested lists
+-nested lists
 
-#array
+-array
 
-#string
+-string
 
-#module
+-module
 
-#condition
+-condition
 
-#function
+-function
